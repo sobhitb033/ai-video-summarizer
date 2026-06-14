@@ -344,28 +344,6 @@ Read generated notes and take the quiz.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here later.
-
-Example:
-
-```md
-## Home Page
-
-![Home](screenshots/home.png)
-
-## Summary Page
-
-![Summary](screenshots/summary.png)
-
-## Quiz Page
-
-![Quiz](screenshots/quiz.png)
-```
-
----
-
 # 🔮 Future Improvements
 
 - PDF export
